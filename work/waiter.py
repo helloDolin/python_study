@@ -1,4 +1,5 @@
 import os
+import sys
 
 # flutter 路径
 flutter_path = '~/Desktop/dev/waiter'

@@ -1,6 +1,4 @@
-import imp
 from requests import Session
-import requests
 import json
 from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 from openpyxl import load_workbook
@@ -27,7 +25,7 @@ TOKENS = [
 
 def get_fear_greed_index():
     url = 'https://api.alternative.me/fng/'
-    res = http_get(url)
+    res = http.http_get(url)
 
     resData = json.loads(res.text)
     resData = resData['data'][0]

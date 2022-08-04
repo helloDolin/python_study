@@ -4,6 +4,7 @@
 
 import os
 import shutil
+import sys
 
 flutter_path = '~/Desktop/dev/dev_merchant'
 flutter_path_merchant = '~/Desktop/dev/dev_merchant/merchant'
