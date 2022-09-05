@@ -30,3 +30,4 @@ single_alias = 'ba9c5f0a0842f4a8f434253432cf92488a7a8a9c'
 # export "FLUTTER_BUILD_MODE=release"
 # /Users/liaoshaolin/Desktop/dev/dev_merchant/HLMerchant/.ios/Flutter/Generated.xcconfig
 # FLUTTER_BUILD_MODE=release
+# kaizhu release 环境，tag ：ef20330721efb055b7c92d7b987b889ce89bbabc
